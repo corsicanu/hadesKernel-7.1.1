@@ -1,0 +1,9 @@
+# hK minimal rules
+/build.sh
+/.scmversion
+/*.zip
+/*.tar.md5
+/output/
+/hK-out/
+/hK-zip/
+/hK-tools/
